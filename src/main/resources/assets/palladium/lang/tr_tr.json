@@ -4,7 +4,7 @@
   "palladium.resource_loc_dedup.only_rl": "Sadece Kaynak Lokasyonu",
   "palladium.resource_loc_dedup.only_mrl": "Sadece model rl",
 
-  "palladium.config.page.shader" : "Shaders",
+  "palladium.config.page.shader" : "Shaderlar",
   "palladium.config.page.deduplication" : "Tekilleştirme",
 
   "palladium.config.shader_uniform_caching": "Tek tip Shader Önbellekleme",
