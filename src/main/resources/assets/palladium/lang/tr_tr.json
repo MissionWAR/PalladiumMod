@@ -1,0 +1,29 @@
+{
+  "palladium.resource_loc_dedup.all": "Hepsi",
+  "palladium.resource_loc_dedup.none": "Hiçbiri",
+  "palladium.resource_loc_dedup.only_rl": "Sadece Kaynak Lokasyonu",
+  "palladium.resource_loc_dedup.only_mrl": "Sadece model rl",
+
+  "palladium.config.page.shader" : "Shaders",
+  "palladium.config.page.deduplication" : "Tekilleştirme",
+
+  "palladium.config.shader_uniform_caching": "Tek tip Shader Önbellekleme",
+  "palladium.config.shader_uniform_caching.tooltip": "Shader üniformalarını önbelleğe alarak çağırılma sayısını azaltır. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.shaderi": "Shader'ı önbellekleme",
+  "palladium.config.shaderi.tooltip": "Shader'ı önbelleğe alma - shader tamsayıları, çağırılma sayılarını azaltır. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.shaderiLog": "ShaderiLog önbellekleme",
+  "palladium.config.shaderiLog.tooltip": "ShaderiLog'u önbelleğe alma - shader tamsayı günlüğü, çağırılma sayılarını azaltır. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.data_fix": "Veri düzelticileri devre dışı bırakın",
+  "palladium.config.data_fix.tooltip": "Veri düzeltiricleri, dünyaları bir sürümden diğerine aktarmakla görevlidir. \nBunu etkinleştirmek oyunun yüklenmesini hızlandırır. \nOyunu yeni bir sürüme güncellemeden önce bu ayarı kapatmanız önerilir.(Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.resource_key_deduplication": "Kaynak anahtarı tekilleştirme",
+  "palladium.config.resource_key_deduplication.tooltip": "Kaynak anahtarlarının kopyalarını siler. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.quads_deduplication": "Model köşeleri tekilleştirme",
+  "palladium.config.quads_deduplication.tooltip": "Kopya köşeleri siler. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.composter_fix": "Gübre varili düzeltme",
+  "palladium.config.resource_location_deduplication": "Kaynak konumu tekilleştirme: ",
+  "palladium.config.resource_location_deduplication.tooltip": "Seçilen kaynak konumunun kopyalarını siler. (Kaynağın yeniden yüklenmesini gerektirir)",
+  "palladium.config.lightweight_attack_ai": "Moblar için geliştirilmiş hedef arama",
+  "palladium.config.lightweight_attack_ai.tooltip": "Kedi ve kurdun hedef bulmasını optimize eder (Dünyanın yeniden başlatılması gerekir)",
+  "palladium.config.lightweight_flee_ai": "Mobların kaçış yapay zekası geliştirildi",
+  "palladium.config.lightweight_flee_ai.tooltip": "Kurt ve tavşanın kaçış hedefleri için konum bulmayı optimize eder (Dünyanın yeniden başlatılması gerekir)"
+}
